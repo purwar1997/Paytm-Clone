@@ -8,7 +8,7 @@
 
 This project is a clone of Paytm website. It is created using `HTML` and `Tailwind CSS` and is responsive for both mobile and tablet screens.
 
-## Components of a website
+## Components of the website
 
 This website is divided into following sections :-
 
@@ -27,4 +27,4 @@ This website is divided into following sections :-
 
 ![Preview](<./previews/Screenshot%20(76).png>)
 
-### [Live link](https://paytm-clone-silk.vercel.app/) of the project
+### [Live link](https://paytm-clone-silk.vercel.app/) of the project.
